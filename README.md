@@ -1,6 +1,6 @@
 # BlaCLI Jack ♠ ♥ ♦ ♣
 
-A fun, interactive Blackjack game that runs in your terminal with colorful ASCII art!
+A fun, interactive Blackjack game that runs in your terminal with ASCII art!
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
