@@ -152,6 +152,6 @@ Possible features to add:
 
 ---
 
-Made with ♥ by Simon John
+Made with ♥ by Eidolom
 
 Enjoy the game! 🎮
